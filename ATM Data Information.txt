@@ -1,0 +1,8 @@
+Account Number: 01
+Account Name: ZJ
+Father Name: JI
+Date of Birth: Tue Jan 23 00:08:00 PKT 2001
+Phone Number: 3352126014
+Address: H # A-5 TBZ Khi.
+Education: UG
+Occupation: Student
